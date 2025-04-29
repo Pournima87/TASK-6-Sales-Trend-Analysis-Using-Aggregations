@@ -22,6 +22,19 @@ A synthetic `orders` table was created with the following columns:
 
 ## 📈 Results
 
+### 📊 Full orders Table 
+
+| order_id | order_date | amount  | product_id |
+|----------|------------|---------|------------|
+| 1        | 2024-01-10 | 250.00  | 101        |
+| 2        | 2024-01-15 | 150.00  | 102        |
+| ...      | ...        | ...     | ...        |
+| 15       | 2023-10-10 | 1600.00 | 115        |
+
+
+![orders table](https://github.com/user-attachments/assets/f4709c0d-3814-4117-b7a2-d04c628430ea)
+
+
 ### 📅 Monthly Revenue & Order Volume
 
 | Year | Month     | Revenue | Orders | AOV   |
@@ -35,19 +48,19 @@ A synthetic `orders` table was created with the following columns:
 | 2024 | April     | 1500.00 | 2      | 750.00 |
 | 2024 | May       | 1900.00 | 2      | 950.00 |
 
-*You can replace this table with an image:*
+
 
 ![Sales Trend Analysis](https://github.com/user-attachments/assets/28726be8-b8a6-4bd5-b596-3d547c2def7d)
 
 ---
 
-### 📊 Grand Totals (Optional Summary)
+### 📊 Grand Totals 
 
 | Year  | Revenue | Orders | AOV   |
 |-------|---------|--------|-------|
 | TOTAL | 12200.00 | 15     | 813.33 |
 
-*Or use an image here too:*
+
 
 ![Total Summary](https://github.com/user-attachments/assets/ecd56cac-c6d3-492e-adfc-8f9ca0ab1d18)
 
