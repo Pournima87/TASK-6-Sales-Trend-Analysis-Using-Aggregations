@@ -77,8 +77,8 @@ A synthetic `orders` table was created with the following columns:
 - Reporting insights using SQL only
 
 ## 📁 Files
-- `sales_trend_analysis.sql` — SQL script to create, populate and analyze the `orders` table
-- `Task6_Sales_Trend_Analysis_Report.pdf` — Report summarizing queries, outputs, and learnings
+- `Task6_onlinesale_analysis.sql` — SQL script to create, populate and analyze the `orders` table
+- `Task6_onlinesale_Analysis_Report.pdf` — Report summarizing queries, outputs, and learnings
 
 ## ✅ Status
 ✅ Task Completed Successfully
